@@ -1,5 +1,3 @@
-## STEP 1
+## Install Node modules before start
     
-    install npm
-
-
+    npm install
